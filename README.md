@@ -9,8 +9,9 @@
 |Most used languages|Streaks|
 |![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibragim-aslanzade&hide=css,ejs,batchfile,shell,html&theme=radical&show_icons=true&locale=en&layout=compact)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ibragim-aslanzade&theme=tokyonight)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibragim-aslanzade&theme=tokyonight" alt="ibragim08" /></a> </p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ibragim-aslanzade&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibragim-aslanzade&theme=tokyonight" alt="ibragim08" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
