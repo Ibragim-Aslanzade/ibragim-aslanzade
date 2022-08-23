@@ -5,7 +5,7 @@
 
 |Github stats|Code activity|
 |-|-|
-|![Github stats](https://github-readme-stats.vercel.app/api?username=ibragim08&theme=tokyonight)| [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=tokyonight&utcOffset=8)]|
+|![Github stats](https://github-readme-stats.vercel.app/api?username=ibragim-aslanzade&theme=tokyonight)| [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=tokyonight&utcOffset=8)]|
 |Most used languages|Streaks|
 |![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibragim-aslanzade&hide=css,ejs,batchfile,shell,html&theme=radical&show_icons=true&locale=en&layout=compact)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ibragim-aslanzade&theme=tokyonight)
 
