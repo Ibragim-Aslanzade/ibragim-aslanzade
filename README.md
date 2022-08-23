@@ -1,15 +1,15 @@
 <h1 align="center">I'm Ibragim Aslanzade</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibragim08&label=Profile%20views&color=0e75b6&style=flat" alt="ibragim08" /> </p>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibragim08&theme=tokyonight" alt="ibragim08" align = "center"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibragim-aslanzade&label=Profile%20views&color=0e75b6&style=flat" alt="ibragim-aslanzade" /> </p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibragim-aslanzade&theme=tokyonight" alt="ibragim08" align = "center"/></p>
 
 
 |Github stats|Code activity|
 |-|-|
 |![Github stats](https://github-readme-stats.vercel.app/api?username=ibragim08&theme=tokyonight)| [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=tokyonight&utcOffset=8)]|
 |Most used languages|Streaks|
-|![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibragim08&hide=css,ejs,batchfile,shell,html&theme=radical&show_icons=true&locale=en&layout=compact)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ibragim08&theme=tokyonight)
+|![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibragim-aslanzade&hide=css,ejs,batchfile,shell,html&theme=radical&show_icons=true&locale=en&layout=compact)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ibragim-aslanzade&theme=tokyonight)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibragim08&theme=tokyonight" alt="ibragim08" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibragim-aslanzade&theme=tokyonight" alt="ibragim08" /></a> </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
